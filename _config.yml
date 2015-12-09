@@ -1,6 +1,6 @@
 name: www.anco.md
 favicon: null
-layout_spectrum: 0.2100343736819923
+layout_spectrum: 1
 typography_spectrum: 0.8352299409452826
 title: Architectural Glass
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.039766067173331976
+  brandStrength: 0.5
   lightness: 0.8478419918101281
   saturation: 0.5796263180673122
-  rhythmicContrast: 0.6392530433367938
+  rhythmicContrast: 0.5
 purpose: []
