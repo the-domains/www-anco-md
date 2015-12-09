@@ -1,0 +1,28 @@
+name: www.anco.md
+favicon: null
+layout_spectrum: 0.2100343736819923
+typography_spectrum: 0.8352299409452826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.039766067173331976
+  lightness: 0.8478419918101281
+  saturation: 0.5796263180673122
+  rhythmicContrast: 0.6392530433367938
+purpose: []
