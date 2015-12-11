@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Architectural Glass]]></title>
+        <description><![CDATA[Architectural Glass]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Dec 2015 09:20:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid]]></title>
+            <description><![CDATA[<article><h1>The Grid</h1><p></p></article>]]></description>
+            <link>https://app.thegrid.io/sites/92a0a122-3c37-4d80-988d-4c6335baa7af/design</link>
+            <guid isPermaLink="false">abd2be5e-90f6-43b2-851f-c53d349dcc64</guid>
+            <pubDate>Fri, 11 Dec 2015 09:20:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
